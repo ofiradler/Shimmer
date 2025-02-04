@@ -6,7 +6,7 @@ const val mod_author = "KilaBash"
 const val mod_id = "shimmer"
 
 //Common
-const val minecraft_version = "1.20.1"
+const val minecraft_version = "1.24.4"
 const val parchment_version = "1.20.1:2023.07.30"
 const val enabled_platforms = "fabric,forge"
 
