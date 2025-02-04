@@ -7,14 +7,14 @@ const val mod_id = "shimmer"
 
 //Common
 const val minecraft_version = "1.24.4"
-const val parchment_version = "1.20.1:2023.07.30"
+const val parchment_version = "1.24.4:2023.07.30"
 const val enabled_platforms = "fabric,forge"
 
 //Fabric
-const val fabric_loader_version = "0.15.0"
-const val fabric_api_version = "0.91.0+$minecraft_version"
-const val cloth_config_version = "11.1.106"
-const val mod_menu_version = "7.1.0"
+const val fabric_loader_version = "0.16.10"
+const val fabric_api_version = "0.115.0+$minecraft_version"
+const val cloth_config_version = "17.0.144"
+const val mod_menu_version = "13.0.1"
 
 //Forge
 const val forge_version = "$minecraft_version-47.1.43"
